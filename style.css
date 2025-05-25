@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --almost-white: #fff0fa;
+    --dark-blue: #00001a;
+    --gunmetal: #5e607a;
+    --vermillion: #f15051;
+    --yellow: #e9aa52;
+    --silver: #c1c6ce;
+}
+
+body {
+    padding: 1.75rem 1rem;
+    background-color: var(--almost-white);
+}   
